@@ -1,0 +1,5 @@
+Lo practicado hoy:
+1. git remote: Permite la conexion con repositorios externos como github y vincularlo con una URL bajo un apodo.
+2. git push: Envia los commits confirmados en nuestra rama hacia el repositorio externo.
+3. git fetch: Descarga commits o archivos editados desde el repo externo hacia nuestro repositorio local, pero no modifica nada aun.
+4. git pull: Esos commits o archivos que descargamos del repo externo, lo fusiona en nuestra rama actual.
